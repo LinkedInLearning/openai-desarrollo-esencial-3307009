@@ -23,7 +23,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/rodrigo-diaz-concha).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
+[lil-course-url]: https://www.linkedin.com/learning/openai-para-desarrollo-esencial
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQH0Hss3eeMzLg/learning-public-crop_675_1200/0/1702886543951?e=2147483647&v=beta&t=wZBFup-4OICh5a1gl6Cb40UokKx6QBhXqRBEtEfWnYg
 
 [1]: # (End of ES-Instruction ###############################################################################################)
